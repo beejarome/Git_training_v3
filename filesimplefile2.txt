@@ -1,1 +1,4 @@
 This is simplefile 2
+
+commit revert 2
+
