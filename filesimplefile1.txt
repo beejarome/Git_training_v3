@@ -2,3 +2,4 @@ This is simplefile 1
 
 commit revert 1
 
+this is comparison lecture change file 1
