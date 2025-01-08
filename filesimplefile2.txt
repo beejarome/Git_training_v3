@@ -1,3 +1,4 @@
 This is simplefile 2
 this is comparison lecture change file 2
 this is comparison lecture change file 2
+this is stash lecture changing file 2

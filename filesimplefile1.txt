@@ -7,3 +7,4 @@ commit revert 1
 
 this is comparison lecture change file 1
 
+this is stash lecture changing file 1
