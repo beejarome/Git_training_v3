@@ -1,2 +1,9 @@
 This is simplefile 1
+
  too many times we think people are wrong but are they realy
+
+
+commit revert 1
+
+this is comparison lecture change file 1
+
